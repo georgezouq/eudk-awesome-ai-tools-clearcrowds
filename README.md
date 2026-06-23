@@ -1765,6 +1765,7 @@ A collection of AI-powered tools specifically designed for photo editing and enh
 19. [PhotoDirector](https://www.cyberlink.com/products/photodirector-photo-editing-software-365/overview_en_US.html) - Creative editing with AI style effects.
 20. [TouchRetouch](https://www.adva-soft.com/touchretouch/) - Remove objects from photos.
 21. [Igly](https://igly.ai) - AI image editor for background removal, replacement, upscale, restore, inpaint, and product-photo workflows.
+22. [ClearCrowds](https://www.clearcrowds.com) - AI photo cleanup editor for removing crowds, objects, shadows, glare, glasses, and product-photo distractions with focused presets.
 
 ---
 
@@ -2001,4 +2002,3 @@ This section covers some of the most advanced software platforms for working wit
     <img src="https://api.star-history.com/chart?repos=eudk/awesome-ai-tools&type=date&legend=top-left" alt="Star History Chart" />
   </a>
 </p>
-
